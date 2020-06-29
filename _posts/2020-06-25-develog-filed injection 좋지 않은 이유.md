@@ -1,5 +1,5 @@
 ---
-title: "Develog: "Spring Boot 생성자 주입을 사용해야 하는 이유"
+title: "Develog: Spring Boot 생성자 주입을 사용해야 하는 이유"
 excerpt_separator: "<!--more-->"
 categories:
   - Develog

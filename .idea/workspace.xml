@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29e910ed-6c27-497c-a827-616a35c2ec8d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2020-06-24-develog-.properties 파일 Enum 초기화 .md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-06-24-develog-.properties 파일 Enum 초기화 .md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-06-25-develog-filed injection 좋지 않은 이유.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-06-25-develog-filed injection 좋지 않은 이유.md" afterDir="false" />
-    </list>
+    <list default="true" id="29e910ed-6c27-497c-a827-616a35c2ec8d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,24 +92,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2020-06-24-develog-.properties 파일 Enum 초기화 .md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="15">
-                <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+              <first_editor relative-caret-position="450">
+                <caret line="30" column="7" lean-forward="true" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2020-06-25-develog-filed injection 좋지 않은 이유.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="15">
-                <caret line="1" column="49" selection-start-line="1" selection-start-column="49" selection-end-line="1" selection-end-column="49" />
+                <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
               </first_editor>
               <second_editor />
             </state>
@@ -131,8 +128,8 @@
         <option value="$PROJECT_DIR$/_posts/2020-06-22-AOP, FILTER, INTERCEPTOR 차이 및 사용.md" />
         <option value="$PROJECT_DIR$/_posts/2020-06-24-.properties 파일 Enum 초기화 .md" />
         <option value="$PROJECT_DIR$/_posts/2020-05-20-develog-wrapper 클래스 활용.md" />
-        <option value="$PROJECT_DIR$/_posts/2020-06-25-develog-filed injection 좋지 않은 이유.md" />
         <option value="$PROJECT_DIR$/_posts/2020-06-24-develog-.properties 파일 Enum 초기화 .md" />
+        <option value="$PROJECT_DIR$/_posts/2020-06-25-develog-filed injection 좋지 않은 이유.md" />
       </list>
     </option>
   </component>
@@ -214,12 +211,12 @@
       <workItem from="1592804146983" duration="1853000" />
       <workItem from="1592980570485" duration="3955000" />
       <workItem from="1593061588228" duration="1877000" />
-      <workItem from="1593414705132" duration="2677000" />
+      <workItem from="1593414705132" duration="2789000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10994000" />
+    <option name="totallyTimeSpent" value="11106000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -323,21 +320,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2020-06-25-develog-filed injection 좋지 않은 이유.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2020-06-24-develog-.properties 파일 Enum 초기화 .md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="15">
-            <caret line="1" column="49" selection-start-line="1" selection-start-column="49" selection-end-line="1" selection-end-column="49" />
+          <first_editor relative-caret-position="450">
+            <caret line="30" column="7" lean-forward="true" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2020-06-24-develog-.properties 파일 Enum 초기화 .md">
+    <entry file="file://$PROJECT_DIR$/_posts/2020-06-25-develog-filed injection 좋지 않은 이유.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="15">
-            <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+            <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
           </first_editor>
           <second_editor />
         </state>
