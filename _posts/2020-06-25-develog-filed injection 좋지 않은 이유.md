@@ -6,7 +6,7 @@ categories:
 tags:
   - Develog
   - Spring Boot
-  - Wrapper
+  - Dependency Injection
 ---
     
     
