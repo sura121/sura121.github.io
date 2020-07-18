@@ -1,5 +1,5 @@
 ---
-title: "Develog: 깊이 우선 탐색 (DFS) / 너비 우선 탐색 (BFS)"
+title: "SOLID 원칙"
 excerpt_separator: "<!--more-->"
 categories:
   - Develog
