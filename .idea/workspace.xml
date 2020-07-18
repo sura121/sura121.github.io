@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29e910ed-6c27-497c-a827-616a35c2ec8d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="29e910ed-6c27-497c-a827-616a35c2ec8d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,8 +100,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2020-07-18-develog-데이터베이스 정규화.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="750">
-                <caret line="103" selection-start-line="103" selection-end-line="103" />
+              <first_editor relative-caret-position="735">
+                <caret line="102" selection-start-line="102" selection-end-line="102" />
               </first_editor>
               <second_editor />
             </state>
@@ -232,12 +230,12 @@
       <workItem from="1594702762906" duration="3175000" />
       <workItem from="1594738539149" duration="1497000" />
       <workItem from="1594889917015" duration="6011000" />
-      <workItem from="1595061635666" duration="2364000" />
+      <workItem from="1595061635666" duration="2589000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31952000" />
+    <option name="totallyTimeSpent" value="32177000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="864" y="23" width="816" height="1027" extended-state="0" />
@@ -394,8 +392,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2020-07-18-develog-데이터베이스 정규화.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="750">
-            <caret line="103" selection-start-line="103" selection-end-line="103" />
+          <first_editor relative-caret-position="735">
+            <caret line="102" selection-start-line="102" selection-end-line="102" />
           </first_editor>
           <second_editor />
         </state>
