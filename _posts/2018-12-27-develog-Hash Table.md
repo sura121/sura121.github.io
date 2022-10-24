@@ -1,10 +1,10 @@
 ---
-title: "Develog: Hash Table 이해"
+title: "Devlog: Hash Table 이해"
 excerpt_separator: "<!--more-->"
 categories:
-  - Develog
+  - Devlog
 tags:
-  - Develog
+  - Devlog
   - 자료구조
 ---
 

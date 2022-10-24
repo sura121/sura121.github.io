@@ -2,9 +2,9 @@
 title: "SOLID 원칙"
 excerpt_separator: "<!--more-->"
 categories:
-  - Develog
+  - Devlog
 tags:
-  - Develog
+  - Devlog
 ---
 
 

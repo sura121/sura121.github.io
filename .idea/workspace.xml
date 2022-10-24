@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29e910ed-6c27-497c-a827-616a35c2ec8d" name="Default Changelist" comment="" />
+    <list default="true" id="29e910ed-6c27-497c-a827-616a35c2ec8d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/_posts/2022-09-08-develog-Coroutine에대해 알아보자!.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2022-09-08-develog-Coroutine에대해 알아보자!.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -119,7 +121,7 @@
       <workItem from="1594738539149" duration="1497000" />
       <workItem from="1594889917015" duration="6011000" />
       <workItem from="1595061635666" duration="2589000" />
-      <workItem from="1666514339734" duration="2862000" />
+      <workItem from="1666514339734" duration="3154000" />
     </task>
     <servers />
   </component>

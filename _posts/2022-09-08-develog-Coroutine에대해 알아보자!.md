@@ -1,10 +1,10 @@
 ---
-title: "Develog: Corutine에대해 알아보자!"
+title: "Devlog: Corutine에대해 알아보자!"
 excerpt_separator: "<!--more-->"
 categories:
-- Develog
-  tags:
-- Develog
+  - Devlog
+tags:
+  - Devlog
 ---
 
 # 배경

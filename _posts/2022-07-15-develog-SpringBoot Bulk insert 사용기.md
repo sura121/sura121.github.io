@@ -1,10 +1,10 @@
 ---
-title: "Develog: SpringBoot Bulk Insert 사용기"
+title: "Devlog: SpringBoot Bulk Insert 사용기"
 excerpt_separator: "<!--more-->"
 categories:
-  - Develog
+  - Devlog
 tags:
-  - Develog
+  - Devlog
   - SpringBoot
 ---
 

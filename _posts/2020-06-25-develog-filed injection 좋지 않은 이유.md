@@ -1,10 +1,10 @@
 ---
-title: "Develog: Spring Boot 생성자 주입을 사용해야 하는 이유"
+title: "Devlog: Spring Boot 생성자 주입을 사용해야 하는 이유"
 excerpt_separator: "<!--more-->"
 categories:
-  - Develog
+  - Devlog
 tags:
-  - Develog
+  - Devlog
   - Spring Boot
   - Dependency Injection
 ---

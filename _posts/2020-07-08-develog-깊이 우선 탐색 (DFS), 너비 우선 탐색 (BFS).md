@@ -1,10 +1,10 @@
 ---
-title: "Develog: 깊이 우선 탐색 (DFS) / 너비 우선 탐색 (BFS)"
+title: "Devlog: 깊이 우선 탐색 (DFS) / 너비 우선 탐색 (BFS)"
 excerpt_separator: "<!--more-->"
 categories:
-  - Develog
+  - Devlog
 tags:
-  - Develog
+  - Devlog
   - Algorithm
 ---
 

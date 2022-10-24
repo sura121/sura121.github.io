@@ -1,10 +1,10 @@
 ---
-title: "Develog: 일급컬렉션에 대해서"
+title: "Devlog: 일급컬렉션에 대해서"
 excerpt_separator: "<!--more-->"
 categories:
-  - Develog
+  - Devlog
 tags:
-  - Develog
+  - Devlog
   - JAVA
 ---
   

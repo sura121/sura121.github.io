@@ -1,10 +1,10 @@
 ---
-title: "Develog: AOP, FILTER, INTERCEPTOR 차이 및 사용"
+title: "Devlog: AOP, FILTER, INTERCEPTOR 차이 및 사용"
 excerpt_separator: "<!--more-->"
 categories:
-  - Develog
+  - Devlog
 tags:
-  - Develog
+  - Devlog
   - Spring Boot
   - aop
   - filter
