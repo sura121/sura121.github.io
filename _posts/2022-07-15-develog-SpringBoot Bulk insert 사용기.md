@@ -95,7 +95,7 @@ spring:
   1. jpa batch insert는 엔티티의 GenerationType.IDENTITY 타입은 제공하지 않는다
     1. [실제 하이버 네이트 공식 문서에 적힌 글](https://docs.jboss.org/hibernate/orm/5.4/userguide/html_single/Hibernate_User_Guide.html#batch-session-batch-insert)
 
-     ![Untitled](assets/images/spring_document.png)
+     ![Untitled](/assets/images/spring_document.png)
 
 - Persistence Context에 엔티티를 식별할 때는 엔티티 타입과 엔티티의 id 값으로 식별하지만           IDENTIY 타입일 경우에는 DB에 insert를 해야만 id를 확인 할 수 있기때문이라고 합니다…..
 - 만약 GenerationType을 TABLE 로 바꾼다면?
@@ -113,7 +113,7 @@ spring:
 - **rewriteBatchedStatements=true 란?**
   - Mysql JDBC Spec에 따라서 드라이버를 제작 하였지만 내부 적으로 BatchStatement를 하나의 요청으로 처리하지 않습니다. 이는 DB 내부 적으로 String Buffer에 붙여 넣는 방법으로 처리하게 됩니다. 또한 insert하는 row별 키를 얻어 오기 위해서는 insert문 이외의 명령문은 사용하면 안됩니다. ← 번역본..     이라고 쓰여 있는데 결론 적으로는 rewriteBatchedStatements 값을 true로 해야지 db에서 multi-value insert (batch insert) 가 가능 한데 제약사항이 많다라고 의미하는거 같습니다..
 
-![Untitled](assets/images/img.png)
+![Untitled](/assets/images/img.png)
 
 - 또한, batchSize도 성능에 중요한 퍼포먼스를 냅니다. 예전 자료이긴 하지만 batchSize를 얼마나 설정하느냐에 따라서 실제로 성능 차이가 크게 나타납니다.
 - 경우에 따라서 lager batch size는 오히려 성능을 drop 시킬 수 있다고 한다.
