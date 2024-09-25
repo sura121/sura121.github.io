@@ -14,7 +14,7 @@ tags:
 9일 사내에서 프로모션을 진행하면서, 결제 시 DeadLock을 발생하는 부분을 모니터링 하였습니다.
 
 
-![img.png](../assets/images/deadlock_img1.png)
+![img.png](/assets/images/deadlock_img1.png)
 
 
 현재 결제 시 많은 쿼리들이 하나의 트랜잭션으로 묶여져 있는 상황입니다.
@@ -91,7 +91,7 @@ WHERE option_id = 2;
 ```
 - sleep을 건 이유는 동시에 쿼리를 수행하기 위함도 있지만, 실제로 대기 상태에 빠지는지도 확인하고 싶었습니다.
 - 1번 세션에서 INSERT가 실행되고 난 이후, UPDATE가 실행될때 
-- ![img_1.png](../assets/images/deadlock_img2.png)
+- ![img_1.png](/assets/images/deadlock_img2.png)
 - 위와 같은 데드락이 발생하는 것을 확인했습니다.
 - 이와 비슷한 경우의 데드락이 발생한 블로그가 있었습니다.
 - 몇 가지 해소 방법이 있었습니다.
@@ -106,7 +106,7 @@ WHERE option_id = 2;
 ### 왜 INSERT 와 UPDATE 순서 변경으로 데드락을 회피할 수 있을까?
 - 일단 제일 큰 문제는 INSERT 시 부모 테이블에 S락을 획득으로 인해 두번째 세션과 첫번째 세션에서 하나의 로우를 UPDATE하려고 할때 발생하는 문제입니다.
 - 두개의 동일한 id를 UPDATE를 먼저 할 경우에는 S락으로 인한 데드락을 방지할 수 있습니다.
-![img_2.png](../assets/images/deadlock_img3.png)
+![img_2.png](/assets/images/deadlock_img3.png)
 - X락을 획득했던 1번 세션이 X락을 반납하고, 2번 세션에서 X락을 대기 한뒤 획득해서 진행할 수 있습니다.
 - 그 다음 INSERT 시에는 S락을 같이 획득할 수 있는 상황이 되므로 1번 세션과 2번 세션은 동일하게 INSERT를 진행 할 수 있게됩니다.
 

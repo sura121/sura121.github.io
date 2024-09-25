@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="29e910ed-6c27-497c-a827-616a35c2ec8d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2022-09-08-develog-Coroutine에대해 알아보자!.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2022-09-08-develog-Coroutine에대해 알아보자!.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2024-04-10-develog-Deadlcok 이슈 원인 파악.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2024-04-10-develog-Deadlcok 이슈 원인 파악.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +42,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
   <component name="ProjectFrameBounds">
     <option name="x" value="864" />
     <option name="y" value="23" />
@@ -85,6 +91,10 @@
   "keyToString": {
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "/Users/iseonbin/Project/sura121.github.io",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -176,6 +186,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/_posts/2019-10-06-환경세팅.md">
